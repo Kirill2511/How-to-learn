@@ -1,0 +1,17 @@
+@import url(logo/_place/logo_place_header.css);
+@import url(./__title/header__title.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__link/header__link.css);
+@import url(./__main-illustration/header__main-illustration.css);
+@import url(./__square-pic/header__square-pic.css);
+
+.header {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  max-height: 756px;
+  min-height: 600px;
+  position: relative;
+  background-color: #f2f2f2;
+}
