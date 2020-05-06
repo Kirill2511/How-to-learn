@@ -1,5 +1,16 @@
+@import url(cards/cards.css);
+@import url(cards/__title/cards__title.css);
+@import url(cards/__description/cards__description.css);
+@import url(cards/__image/cards__image.css);
+@import url(cards/__item/cards__item.css);
+
+
 .techniques {
-  align-items: center;
   display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
+  width: 80%;
+  padding-top: 100px;
+  margin: 0 auto;
 }
