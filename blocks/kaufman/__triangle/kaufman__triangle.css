@@ -6,4 +6,5 @@
   right: -210px;
   top: 0;
   width: 877px;
+  animation: square-pic 20s linear infinite normal backwards;
 }
