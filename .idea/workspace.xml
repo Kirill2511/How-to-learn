@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2112520-b0fe-4cc6-96cb-0fd4c431f009" name="Default Changelist" comment="v1">
+      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/kiril.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/two-columns/__brief/two-columns__brief.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__brief/two-columns__brief.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/two-columns/__main-text/two-columns__main-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__main-text/two-columns__main-text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/two-columns/__paragraph/two-columns__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__paragraph/two-columns__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/two-columns/__span-accent/two-columns__span-accent.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__span-accent/two-columns__span-accent.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/two-columns/two-columns.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/digits/digits.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/digits.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/digits/section-subtitle/section-subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/digits/section-title/section-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/digits/table/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/table/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/logo/logo_place_footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/logo/_place/logo_place_header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/section-subtitle/_theme/section-subtitle_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/_theme/section-subtitle_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/section-title/_theme/section-title_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/_theme/section-title_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/table/__cell/_theme/table__cell_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/table/__cell/_theme/table__cell_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/table/__heading/_theme/table__heading_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/table/__heading/_theme/table__heading_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/table/__text/_theme/table__text_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/table/__text/_theme/table__text_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/table/_theme/table__theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/table/_theme/table__theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__author/khan__author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__author/khan__author.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__quote-author-subline/khan__quote-author-subline.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__quote-author-subline/khan__quote-author-subline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__quote-author/khan__quote-author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__quote-author/khan__quote-author.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__title/khan__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__title/khan__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/techniques/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/techniques/cards/cards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/techniques/techniques.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/techniques/techniques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="PostCSS File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SAVE_CHANGES_POLICY" value="STASH" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1bKESE52Coaf28RdaDN9mqj9S3e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.karma.karma_node_package_dir" value="" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kiril\Desktop\GitHub\Sprint2\blocks" />
+      <recent name="C:\Users\kiril\Desktop\GitHub\Sprint2\blocks\section-title" />
+      <recent name="C:\Users\kiril\Desktop\GitHub\Sprint2\blocks\section-subtitle" />
+      <recent name="C:\Users\kiril\Desktop\GitHub\Sprint2\blocks\digits\table" />
+      <recent name="C:\Users\kiril\Desktop\GitHub\Sprint2\blocks\digits\table\__text" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sprint2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2112520-b0fe-4cc6-96cb-0fd4c431f009" name="Default Changelist" comment="" />
+      <created>1588372382480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588372382480</updated>
+      <workItem from="1588372383719" duration="3140000" />
+      <workItem from="1588647192707" duration="105000" />
+      <workItem from="1588647312413" duration="7896000" />
+      <workItem from="1588673139286" duration="3972000" />
+      <workItem from="1588677137723" duration="4860000" />
+      <workItem from="1588737067093" duration="98000" />
+      <workItem from="1588774195206" duration="258000" />
+      <workItem from="1588787392953" duration="1615000" />
+      <workItem from="1588789767937" duration="17000" />
+      <workItem from="1588792040977" duration="12038000" />
+      <workItem from="1588844154727" duration="6259000" />
+      <workItem from="1588850455200" duration="922000" />
+      <workItem from="1589182138548" duration="12000" />
+      <workItem from="1589182171253" duration="4934000" />
+      <workItem from="1589242823734" duration="684000" />
+    </task>
+    <task id="LOCAL-00001" summary="v1">
+      <created>1588373095217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588373095217</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v1">
+      <created>1588373823021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588373823021</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v1">
+      <created>1588373949390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588373949390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Brif 1 check">
+      <created>1588674892012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588674892012</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add techniques">
+      <created>1588737135665</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588737135665</updated>
+    </task>
+    <task id="LOCAL-00006" summary="brif oakley check">
+      <created>1588803691501</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588803691501</updated>
+    </task>
+    <task id="LOCAL-00007" summary="brif oakley check">
+      <created>1588803755560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588803755560</updated>
+    </task>
+    <task id="LOCAL-00008" summary="brif oakley check">
+      <created>1588804024891</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588804024891</updated>
+    </task>
+    <task id="LOCAL-00009" summary="brif 2 check">
+      <created>1588850097153</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588850097154</updated>
+    </task>
+    <task id="LOCAL-00010" summary="brif 2 check fix">
+      <created>1588850402158</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588850402158</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix">
+      <created>1588851133693</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588851133693</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1" />
+    <MESSAGE value="Brif 1 check" />
+    <MESSAGE value="add techniques" />
+    <MESSAGE value="brif oakley check" />
+    <MESSAGE value="brif 2 check" />
+    <MESSAGE value="brif 2 check fix" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="741" y="198" key="#Inspections" timestamp="1588374828930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1588374828930" />
+    <state x="561" y="175" width="816" height="730" key="#Intentions" timestamp="1588650788638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="175" width="816" height="730" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1588650788638" />
+    <state x="861" y="479" key="#Stylelint" timestamp="1588676934259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="479" key="#Stylelint/0.0.1920.1040@0.0.1920.1040" timestamp="1588676934259" />
+    <state x="569" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589183101601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589183101601" />
+    <state x="788" y="207" width="635" height="619" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1588677154521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="207" width="635" height="619" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588677154521" />
+    <state x="716" y="371" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588662453989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="371" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1588662453989" />
+    <state width="318" height="442" key="Diff.GoToChangePopup" timestamp="1588372900838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="318" height="442" key="Diff.GoToChangePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1588372900838" />
+    <state x="272" y="95" width="1388" height="800" key="DiffContextDialog" timestamp="1588663128054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="272" y="95" width="1388" height="800" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588663128054" />
+    <state x="1051" y="341" key="FileChooserDialogImpl" timestamp="1589182204364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1051" y="341" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589182204364" />
+    <state width="1528" height="328" key="GridCell.Tab.0.bottom" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.0.center" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.0.left" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.0.right" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.1.bottom" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.1.center" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.1.left" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.1.right" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.2.bottom" timestamp="1589185763359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763359" />
+    <state width="1528" height="328" key="GridCell.Tab.2.center" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.2.left" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.2.right" timestamp="1589185763358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763358" />
+    <state width="1528" height="328" key="GridCell.Tab.3.bottom" timestamp="1589185763359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763359" />
+    <state width="1528" height="328" key="GridCell.Tab.3.center" timestamp="1589185763359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763359" />
+    <state width="1528" height="328" key="GridCell.Tab.3.left" timestamp="1589185763359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763359" />
+    <state width="1528" height="328" key="GridCell.Tab.3.right" timestamp="1589185763359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1528" height="328" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589185763359" />
+    <state x="719" y="196" key="SettingsEditor" timestamp="1589186481523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="196" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589186481523" />
+    <state x="715" y="332" key="StringManipulation.SortTypeDialog" timestamp="1588676141754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="332" key="StringManipulation.SortTypeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588676141754" />
+    <state x="689" y="236" key="VCS.ChangeListViewerDialog" timestamp="1588373177547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="236" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588373177547" />
+    <state x="848" y="577" key="VCS.EditChangelistDialog" timestamp="1588372881453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="848" y="577" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588372881453" />
+    <state x="516" y="264" key="Vcs.Push.Dialog.v2" timestamp="1588851136092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="516" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588851136092" />
+    <state x="623" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588799076102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588799076102" />
+    <state x="827" y="621" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588373697168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="621" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588373697168" />
+    <state x="724" y="320" key="git4idea.merge.GitPullDialog" timestamp="1588373375752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="320" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588373375752" />
+    <state x="752" y="393" key="git4idea.rebase.GitRebaseDialog" timestamp="1588373188031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="393" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588373188031" />
+    <state x="988" y="394" key="jetbrains.nodejs.interpreters-dialog" timestamp="1588676535823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="988" y="394" key="jetbrains.nodejs.interpreters-dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588676535823" />
+    <state x="771" y="242" key="run.anything.popup" timestamp="1588678257630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588678257630" />
+    <state x="632" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1588677758843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="632" y="236" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588677758843" />
+  </component>
+</project>
