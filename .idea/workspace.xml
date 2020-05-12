@@ -25,46 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2112520-b0fe-4cc6-96cb-0fd4c431f009" name="Default Changelist" comment="v1">
-      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/kiril.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/description/description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/description.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/description/two-columns/__brief/two-columns__brief.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__brief/two-columns__brief.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/description/two-columns/__main-text/two-columns__main-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__main-text/two-columns__main-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/description/two-columns/__paragraph/two-columns__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__paragraph/two-columns__paragraph.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/description/two-columns/__span-accent/two-columns__span-accent.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__span-accent/two-columns__span-accent.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/description/two-columns/two-columns.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/digits/digits.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/digits.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/digits/section-subtitle/section-subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/digits/section-title/section-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/digits/table/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/table/table.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/logo/logo_place_footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/logo/_place/logo_place_header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/kaufman/section-subtitle/_theme/section-subtitle_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/_theme/section-subtitle_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/kaufman/section-title/_theme/section-title_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/_theme/section-title_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/kaufman/table/__cell/_theme/table__cell_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/table/__cell/_theme/table__cell_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/kaufman/table/__heading/_theme/table__heading_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/table/__heading/_theme/table__heading_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/kaufman/table/__text/_theme/table__text_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/table/__text/_theme/table__text_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/kaufman/table/_theme/table__theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/table/_theme/table__theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/khan/__author/khan__author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__author/khan__author.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/khan/__quote-author-subline/khan__quote-author-subline.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__quote-author-subline/khan__quote-author-subline.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/khan/__quote-author/khan__quote-author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__quote-author/khan__quote-author.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/khan/__title/khan__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__title/khan__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/techniques/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/techniques/cards/cards.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/techniques/techniques.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/techniques/techniques.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texts.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="d2112520-b0fe-4cc6-96cb-0fd4c431f009" name="Default Changelist" comment="v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +134,7 @@
       <workItem from="1588850455200" duration="922000" />
       <workItem from="1589182138548" duration="12000" />
       <workItem from="1589182171253" duration="4934000" />
-      <workItem from="1589242823734" duration="684000" />
+      <workItem from="1589242823734" duration="1050000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1588373095217</created>
@@ -252,7 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588851133693</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix">
+      <created>1589243803723</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589243803723</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix">
+      <created>1589243824358</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589243824358</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
