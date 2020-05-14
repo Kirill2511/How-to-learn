@@ -18,6 +18,9 @@
 @import url(../resources/resources.css);
 @import url(../footer/footer.css);
 
+/*Структуру вроде поправил и надеюсь все по бэму, к сожалению,
+в слаке в обусждениях проекта с этим моментом никто особо не помог.*/
+
 .page {
   color: #000;
   font-family: "Helvetica Neue", Arial, sans-serif;
