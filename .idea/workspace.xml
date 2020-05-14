@@ -26,10 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2112520-b0fe-4cc6-96cb-0fd4c431f009" name="Default Changelist" comment="v1">
-      <change afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +144,7 @@
       <workItem from="1589407391163" duration="6717000" />
       <workItem from="1589417310634" duration="263000" />
       <workItem from="1589478866038" duration="72000" />
-      <workItem from="1589484633187" duration="828000" />
+      <workItem from="1589484633187" duration="1681000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1588373095217</created>
@@ -303,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589417559853</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="fix v3">
+      <created>1589486358142</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1589486358142</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +377,8 @@
     <MESSAGE value="fix" />
     <MESSAGE value="fix2" />
     <MESSAGE value="fix v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix v2" />
+    <MESSAGE value="fix v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix v3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="741" y="198" key="#Inspections" timestamp="1588374828930">
@@ -484,10 +489,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="525" y="274" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589407818335" />
-    <state x="719" y="196" key="SettingsEditor" timestamp="1589186481523">
+    <state x="719" y="196" key="SettingsEditor" timestamp="1589486325059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="719" y="196" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589186481523" />
+    <state x="719" y="196" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589486325059" />
     <state x="715" y="332" key="StringManipulation.SortTypeDialog" timestamp="1588676141754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -500,10 +505,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="848" y="577" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588372881453" />
-    <state x="516" y="264" key="Vcs.Push.Dialog.v2" timestamp="1589417561907">
+    <state x="516" y="264" key="Vcs.Push.Dialog.v2" timestamp="1589486359916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="516" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589417561907" />
+    <state x="516" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589486359916" />
     <state x="623" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588799076102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
